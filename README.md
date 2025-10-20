@@ -92,7 +92,7 @@ It organizes date, work number, and version, keeping a complete and readable his
 Um script Python foi criado para gerar os códigos automaticamente, detectando a próxima versão disponível e criando um arquivo .txt com metadados / A Python script was created to generate codes automatically, detecting the next available version and creating a .txt file with metadata.
 
 ## Link do Script / Script link:
-[generate_version.py](https://github.com/m4ntonio/mao-versioning/generate_version.py)
+[generate_version.py](https://github.com/m4ntonio/mao-versioning/blob/main/generate_version.py)
 
 ## Uso / Usage:
 `python gerar_codigo.py`
